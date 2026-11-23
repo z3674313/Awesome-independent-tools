@@ -493,6 +493,8 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [Tikvoya](https://tikvoya.com/) - (免费) TikTok 匿名资料查看工具，无需登录即可查询公开用户资料、浏览近期视频和评论，并查看可获取的粉丝及关注信息。
+
 
 <a name="contribute"></a>
 
